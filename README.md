@@ -12,6 +12,8 @@ atdesk.co is seeking frontend guru
 					We: 	"Are a newly funded tech startup doing really interesting things with professional networking (honestly, it’s possible). We are looking for our first engineering hire. You will be employee #3."
 			},
 
+			location: "London, United Kingdon",
+
 			requirements: function( you ) {
 				return
 					you.understand( this ) &&
