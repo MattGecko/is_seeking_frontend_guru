@@ -1,9 +1,9 @@
-atdesk.co is seeking frontend guru
+undesk.co is seeking frontend guru
 ========================
 
 		/* TL;DR:  Startup seeks Frontend Guru - 1st engineering hire - £32K-£40K + equity */
 
-		$( "atdesk.co" ).requires({
+		$( "undesk.co" ).requires({
 
 			title: "Senior Frontend Developer",
 
