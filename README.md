@@ -52,7 +52,7 @@ undesk.co is seeking frontend guru
 				"Chance to learn new things and work with cutting-edge tech",
 				"Equity stake in the company",
 				"Significant input in the product and company",
-				“Work from home for up to 2 days a week (after probation)”,
+				"Work from home for up to 2 days a week (after probation)",
 				"Your choice of hardware / development platform",
 				"Flexible hours (physical presence still required)",
 				"Flexible holiday allowance",
